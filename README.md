@@ -1,0 +1,2 @@
+# neural-network-
+This week’s task is to train a feedforward neural network model to execute a binary coded decimal (BCD) adder problem. Ideally, we need to create a script to transform the 8-bit input into a 5-bit output which includes the carry forward bit. We are allowed to work on the design of the neural network model by experimenting with different combinations of hidden layers and neurons. We are expected to start simple and then increase the complexity as necessary.
